@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.next-dev/
+out/
+.env
+.env.*
+!.env.example
+coverage/
+*.tsbuildinfo
+.DS_Store
+
+# Local review and publishing notes
+/AUDIT_REPORT.md
+/SUBMISSION.md
+/SECURITY.md
